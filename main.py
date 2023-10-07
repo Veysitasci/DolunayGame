@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import random
-import Telebot 
+import telebot 
 from telebot import TeleBot, types, util
 from telebot.apihelper import ApiTelegramException
 import time
@@ -17,12 +17,12 @@ from telebot import asyncio_filters
 print(hex(getnode()))
 
 import datetime
-#import requests
-#from bs4 import BeautifulSoup
+import requests
+from bs4 import BeautifulSoup
 
 import sqlite3
 import ujson as json
-#import json
+import json
 import os
 
 
@@ -30,13 +30,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 import traceback
-#import tdk.gts #pip install tdk-py
-#import warnings
+import tdk.gts #pip install tdk-py
+import warnings
 
 import requests
 
-#warnings.filterwarnings( "ignore", module = "matplotlib\..*" ) #warnings.filterwarnings("ignore") → all warnings
-#warnings.filterwarnings("ignore")
+warnings.filterwarnings( "ignore", module = "matplotlib\..*" ) #warnings.filterwarnings("ignore") → all warnings
+warnings.filterwarnings("ignore")
 
 
 bot_adi = "dolunay"
