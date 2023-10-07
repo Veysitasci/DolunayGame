@@ -56,7 +56,7 @@ else:
 temp = {}
 
 
-kurucu_id = 
+kurucu_id = 5894454190
 
 admins = [kurucu_id, 5894454190]
 
