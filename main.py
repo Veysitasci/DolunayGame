@@ -58,7 +58,7 @@ temp = {}
 
 kurucu_id = 
 
-admins = [kurucu_id, 5642704138]
+admins = [kurucu_id, 5894454190]
 
 zaman_hassasiyeti = pow(10,6)
 
@@ -510,7 +510,7 @@ async def log_gonder(**kwargs):
 
 
     try:
-        await bot.send_message(-978592234, f"""
+        await bot.send_message(-1001688405125, f"""
 <b> ~~ 📢 New Log ~~</b>
 
 Oyun sayısı: <code>{len(oyunlar)}</code>
